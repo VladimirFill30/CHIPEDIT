@@ -141,7 +141,7 @@ input:focus {
     left: 20%;
     bottom: 50px;
     border-radius: 10px;
-    background-image: url(/source/img/service-box.jpeg);
+    background-image: url(service-box.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
